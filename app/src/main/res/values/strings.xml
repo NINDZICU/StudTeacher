@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StudTeacher</string>
+    
+    <string-array name="stats_array">
+        <item>Оценки</item>
+        <item>Решившие задание</item>
+    </string-array>
+</resources>
